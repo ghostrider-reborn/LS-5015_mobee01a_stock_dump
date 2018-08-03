@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-2015 Qualcomm Technologies, Inc. All Rights Reserved.
+    Qualcomm Technologies Proprietary and Confidential.
+-->
+<layout>
+    <button
+        name="hall_area"
+        text=""
+        w_rel="40"
+		h_rel="15"
+        x_rel="10"
+        y_rel="0"
+        color="0x2CF3137D" />
+
+        <textview
+		name="display"
+		text=""
+		w_rel="20"
+		h_rel="20"
+		x_rel="10"
+		y_rel="50" />
+    <include layout="footer.xml"/>
+</layout>
